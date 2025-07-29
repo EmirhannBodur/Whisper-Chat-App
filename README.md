@@ -35,7 +35,7 @@
 | 🔎 Kullanıcı Arama (ID/İsim) | Search users (by ID or name) |
 | 🚫 Kullanıcı Engelleme | Block users |
 | ➕ Kullanıcı Ekleme (Numara ile) | Add user by unique number |
-| ✅ Okundu / Görüldü Durumu | Message seen indicators |
+| ✅ Okundu / Görüldü Durumu (Planlanıyor)| Message seen indicators (coming soon)|
 | 🗑️ Mesaj Silme | Delete message (for self or all) |
 | 🌓 Tema Desteği (Planlanıyor) | Theme switch (coming soon) |
 
@@ -65,7 +65,6 @@
 3. Diğer kullanıcılar bu numara ile eklenebilir.
 4. Uygulama içinden mesajlaşabilir, medya (fotoğraf, video, ses) gönderebilir.
 5. Kişiler birbirini engelleyebilir veya profil bilgilerini düzenleyebilir.
-6. Bildirim sistemi ile yeni mesajlardan anında haberdar olunur.
 
 ### 🇺🇸 English
 
@@ -74,7 +73,6 @@
 3. Users can add each other using this ID.
 4. They can chat, send media (images, videos, voice messages).
 5. Users can block each other or update their profile.
-6. Instant notifications alert for new messages.
 
 ---
 
