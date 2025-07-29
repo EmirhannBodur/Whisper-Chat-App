@@ -1,0 +1,48 @@
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+build/
+.cxx/
+.externalNativeBuild/
+
+# Local configuration
+local.properties
+.idea/workspace.xml
+.idea/libraries/
+.idea/modules.xml
+.idea/compiler.xml
+.idea/assetWizardSettings.xml
+.idea/gradle.properties
+
+# Gradle files
+.gradle/
+
+# Log files
+*.log
+
+# Windows thumbnail caches
+Thumbs.db
+
+# macOS files
+.DS_Store
+
+# Lint results
+lint-results.html
+lint-results.xml
+
+# Keystore files
+debug.keystore
+
+# Android Studio captures
+captures/
+
+# Firebase configuration file
+google-services.json
